@@ -213,7 +213,7 @@ int tempAccumCount = 0;
 
 // ============================= CONFIG TIEMPO =============================
 const char *weatherCity = "Durango,ES";
-const char *weatherApiKey = "API KEY";
+const char *weatherApiKey = "d4ade48fe177ab41529d9e44511a9d19";
 unsigned long lastWeatherUpdate = 0;
 const unsigned long weatherUpdateInterval = 900000;
 
